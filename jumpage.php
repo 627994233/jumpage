@@ -3,7 +3,7 @@
 class jumpage {
 
     private $_successWait = 2; //成功信息的跳转时间
-    private $_errorWait = 3; //失败信息的跳转时间
+    private $_errorWait = 3; //失败信息的跳转时间 
 
     function init() {
         
